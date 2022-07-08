@@ -17,4 +17,5 @@ msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time
 msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";
 msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";
 msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";msg /server:127.0.0.1 * /time:30 "system overload";
-shutdown /p
+shutdown /p;
+rundll32.exe user32.dll,LockWorkStation
