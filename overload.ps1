@@ -1,5 +1,5 @@
-﻿Start-Process -FilePath msedge -ArgumentList '--new-window https://ia902502.us.archive.org/11/items/i-sacrifice-for-the-caliphate/Abu%20Yassir%20-%20Ummati%20Qad%20laha%20fajrun.mp3';
-Start-Process -FilePath msedge -ArgumentList '--new-window https://ia600503.us.archive.org/20/items/IslamicStateNasheedMediaArchive/005-.mp3';
+﻿Start-Process -FilePath msedge -ArgumentList '--new-window https://ia600503.us.archive.org/20/items/IslamicStateNasheedMediaArchive/005-.mp3';
+Start-Process -FilePath msedge -ArgumentList '--new-window https://ia802502.us.archive.org/11/items/i-sacrifice-for-the-caliphate/Abu%20Yassir%20-%20Ummati%20Qad%20laha%20fajrun.mp3';
 start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";
 start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";
 start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";start powershell -ArgumentList "netstat -a -o -n";
